@@ -1,6 +1,6 @@
-# JCV-Marker — jubeat 官方 marker 的 Malody 4 移植
+# JCV-Marker — jubeat 官方 marker 的 Malody 4.3.7 移植
 
-把 jubeat 的 58 种官方 marker 逐帧贴图，转换成 Malody 4（Pad 模式）可用的皮肤包。
+把 jubeat 的 58 种官方 marker 逐帧贴图，转换成 Malody 4.3.7（Pad 模式）可用的皮肤包。
 
 每套皮肤包含面板、长按两段三角、MA 标记动画、H1–H4 四档打击动画和封面；
 帧数统一为 MA 24 帧 / H 16 帧，以适配 Malody 4 的固定帧率播放。
