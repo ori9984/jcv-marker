@@ -14,8 +14,10 @@
 
 ## 已知问题
 
+![Dessert Station](screenshots/03-dessert-station.png)
+
 - **Dessert Station（tm1001）**：受 Malody 4 皮肤引擎限制，标记动画是固定帧率播放，
-  与 jubeat 原版"按时间取帧"的时序不一致，因此判定瞬间的合门手感与原版有差异。
+  与 jubeat 原版“按时间取帧”的时序不一致，因此判定瞬间的合门手感与原版有差异。
   其余 marker 未发现该问题。
   
 ## Credits
